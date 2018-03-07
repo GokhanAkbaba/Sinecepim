@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "821069304008",
+    "firebase_url": "https://sinecep-56180.firebaseio.com",
+    "project_id": "sinecep-56180",
+    "storage_bucket": "sinecep-56180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821069304008:android:468fb696691ba7ed",
+        "android_client_info": {
+          "package_name": "sinecep.cannet.sinecepiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821069304008-bcngvrf19a7e98m7aaq8sgaldu0fkn5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm3s-Atn39PokZO7ifSTl7Fj-Mw5Mdt58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

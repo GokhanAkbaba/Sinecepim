@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0084ff"
+    >
+
+
+
+    <Button
+        android:id="@+id/vizyonButon"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/yakindaButon"
+        android:layout_alignLeft="@+id/yakindaButon"
+        android:layout_alignStart="@+id/yakindaButon"
+        android:layout_marginBottom="155px"
+        android:background="#00c300"
+        android:text="VİZYONDA"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="35dp"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/yakindaButon"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="255px"
+        android:background="#f57d00"
+        android:text="YAKINDA"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="35dp"
+        android:visibility="visible" />
+
+
+</RelativeLayout>
